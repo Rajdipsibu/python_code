@@ -1,0 +1,5 @@
+s=set()
+s.add(20)
+s.add(20.0000)
+s.add('20')
+print(s,"\n",len(s))
